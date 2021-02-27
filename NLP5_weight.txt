@@ -1,0 +1,17 @@
+hate    -1
+hatred    -2
+annoyed    -1
+annoy    -1 
+annoyingly    -2
+nasty    -3
+nice    1
+excellent    3
+good    2
+wonderful    3
+best    3
+better    2
+awesome    2
+beautiful    1
+beauty    1
+beautifully    1
+supreme    2
